@@ -1,0 +1,16 @@
+visual encodings
+stream graphs
+horizon graphs
+"information-empty" bars
+parallel coordinates
+brushing-and-linking
+graduated symbol maps
+dorling cartogram
+icicle
+space-filling
+enclosure diagrams
+padding
+jiggle nodes
+force-directed layouts
+arc diagram
+seriation
