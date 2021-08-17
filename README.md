@@ -30,7 +30,7 @@ Existen diversos tutoriales para comenzar a trabajar con estos datos. Yo trabaj�
 
 ---
 
-## Algunos ejemplos de búsuqeda usando el paquete 'spotifyr'
+## Algunos ejemplos de búsqueda usando 'spotifyr'
 
 1. Establecer conexión con la API de Spotify:
 
