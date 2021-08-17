@@ -2,15 +2,13 @@
 ## Tema: Spotify
 DBD - ITBA - Visualización de la Información
 
---------------------------------------------------------
-
-Trabajo final: https://mpaulabonel.github.io/infovis/tp_spotify.html
-
---------------------------
+---
 
 ## Objetivo
 
 El objetivo de este trabajo fue visualizar mis escuchas de Spotify, tanto música como podcasts.
+
+Trabajo final: https://mpaulabonel.github.io/infovis/tp_spotify.html
 
 --------------------------
 
