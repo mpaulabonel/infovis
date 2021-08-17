@@ -1,31 +1,25 @@
-# infovis
+# TP Visualización
+## Tema: Spotify
 DBD - ITBA - Visualización de la Información
 
-Readme de gh-pages
+--------------------------------------------------------
 
-
---------------------------
-
-https://raw.githubusercontent.com/mpaulabonel/infovis/gh-pages/zoo.txt
+Trabajo final: https://mpaulabonel.github.io/infovis/tp_spotify.html
 
 --------------------------
 
-Paso 1) https://jsbin.com/?html,output
+## Objetivo
 
-Paso 2) https://mpaulabonel.github.io/infovis/mom2021w26.html
+El objetivo de este trabajo fue visualizar mis escuchas de Spotify, tanto música como podcasts.
 
+--------------------------
 
+## Datos
+Para este trabajo utilicé dos fuentes de datos principales: 
 
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>JS Bin</title>
-</head>
-<body>
-<div class='tableauPlaceholder' id='viz1629205950947' style='position: relative'><noscript><a href='#'><img alt='Mis datos ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TP&#47;TP_Spotify&#47;TPSpotify&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TP_Spotify&#47;TPSpotify' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TP&#47;TP_Spotify&#47;TPSpotify&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1629205950947');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-</body>
-</html>
+1. Información histórica de escuchas de Spotify (período: año previo). Para obtener estos datos es necesario realizar el pedido en esta página con un tiempo de demora de algunos días a un mes: https://www.spotify.com/us/account/privacy/?_ga=2.184823009.998357364.1629131719-547053533.1604324023
 
-<iframe src="https://public.tableau.com/views/public_exercise/Dashboard1?:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+2. Información de la API de Spotify extraída utilizando el paquete 'spotifyr' de R: https://www.rdocumentation.org/packages/spotifyr/versions/2.2.1. Este paquete nos permite obtener información del artista y, fundamentalmente, de las canciones. 
+
+--------------------------
+
