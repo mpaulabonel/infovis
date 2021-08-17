@@ -36,7 +36,11 @@ Los datos de streaming históricos (recibidos en un archivo .json) cuentan con l
 
 El archivo recibidio luce de la siguiente forma:
 
-
+| endTime         | artistName | trackName       | msPlayed |
+| --------------- | ---------- | --------------- | -------- |
+| 12/8/2020 21:26 | MGMT       | Time to Pretend | 260912   |
+| 12/8/2020 21:30 | MGMT       | Weekend Wars    | 249930   |
+| 12/8/2020 21:34 | MGMT       | The Youth       | 227938   |
 
 ## Algunos ejemplos de búsqueda usando 'spotifyr'
 
