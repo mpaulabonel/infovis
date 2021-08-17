@@ -27,7 +27,14 @@ El trabajo final fue realizado en Tableau. Otros recursos de utilidad para diagr
 
 ## Datos históricos 
 
+Los datos de streaming históricos (recibidos en un archivo .json) cuentan con la siguiente información: 
 
++ endTime: Fecha y hora de finalización de la escucha del track
++ artistName: Nombre del artista
++ trackName: Nombre del track
++ msPlayed: Milisegundos de escucha del track
+
+El archivo recibidio luce de la siguiente forma:
 
 
 
