@@ -43,6 +43,7 @@ get_spotify_authorization_code()
 
 2. Obtener características de las canciones pertenecientes a un artista:
 
+favArtist <- get_artist_audio_features(artist= "Joni Mitchell")
 
 
 3. Obtener características de las canciones pertenecientes a una playlist:
