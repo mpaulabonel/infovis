@@ -23,8 +23,7 @@ Para este trabajo utilicé dos fuentes de datos:
 
 Existen diversos tutoriales para comenzar a trabajar con estos datos. Yo trabajé con el siguiente [tutorial](https://towardsdatascience.com/explore-your-activity-on-spotify-with-r-and-spotifyr-how-to-analyze-and-visualize-your-stream-dee41cb63526).
 
-El trabajo final fue realizado en Tableau. Otros recursos de utilidad para diagramar la visualización fueron los gráficos de [Flourish](https://public.flourish.studio/visualisation/7010328/) y las notebooks públicas de [Observable](https://observablehq.com/@marit970/radar-plot)
-
+El trabajo final fue realizado en Tableau. Otros recursos de utilidad para diagramar la visualización fueron los gráficos de [Flourish](https://public.flourish.studio/visualisation/7010328/) y las notebooks públicas de Observable sobre el tema. 
 
 ## Datos históricos 
 
