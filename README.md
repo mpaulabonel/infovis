@@ -16,7 +16,21 @@ Paso 2) https://mpaulabonel.github.io/infovis/mom2021w26.html
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
 <center><iframe src="https://public.tableau.com/views/TP_Spotify/TPSpotify?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
+</body>
+</html>
+
+
+
+
 
 
 
